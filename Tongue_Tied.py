@@ -1,4 +1,4 @@
-# CTD project submittion (From SUTD class of 2026)
+# CTD project submittion 
 # Date 7/12/2022
 # Class: SC08 Team 8H: Team members: Elroy (1006569), Le Zhan(1007237),  Yong Zhi(1006894), Ong Qian Ying, Natalie (1007026), Yang Qirui(1003779)
 
